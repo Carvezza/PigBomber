@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 997542d49a837094abfc96e0d2b9d330, type: 3}
+  m_Name: Entity Factory
+  m_EditorClassIdentifier: 
+  _pigPrefab: {fileID: 925118945474349608, guid: 31cb1d6064c1dfe45bb9ca83965c4c27, type: 3}
+  _dogPrefab: {fileID: -536693346844504011, guid: 0b2177aec4cabe243a38f25458ccdfa3, type: 3}
+  _farmerPrefab: {fileID: -6864828329470771945, guid: 563179f6db58dce4cac2ef6facf3011f, type: 3}
+  _bombPrefab: {fileID: 2233751621604631279, guid: acefa18080eef8e4a9e2f21a88c69a74, type: 3}
